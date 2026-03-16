@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\java",
+    "\\app\\src\\main\\java\\com",
+    "\\app\\src\\main\\java\\com\\example",
+    "\\app\\src\\main\\java\\com\\example\\smabolt",
+    "\\app\\src\\test",
+    "\\app\\src\\test\\java",
+    "\\app\\src\\test\\java\\com",
+    "\\app\\src\\test\\java\\com\\example",
+    "\\app\\src\\test\\java\\com\\example\\smabolt"
+  ],
+  "SelectedNode": "\\app\\src\\main\\java\\com\\example\\smabolt\\DatabaseHelper.java",
+  "PreviewInSolutionExplorer": false
+}
