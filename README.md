@@ -50,20 +50,34 @@
 </summary>
 
 *Как разрешить установку из неизвестных источников*
+
 ![1](./screenshots/permission/1.png)
+
 ![2](./screenshots/permission/2.png)
+
 ![3](./screenshots/permission/3.png)
+
 ![4](./screenshots/permission/4.png)
+
 ![5](./screenshots/permission/5.png)
 
+
 *Как разрешить установку приложения*
+
 ![1](./screenshots/install/1.png)
+
 ![2](./screenshots/install/2.png)
+
 ![3](./screenshots/install/3.png)
+
 ![4](./screenshots/install/4.png)
+
 ![5](./screenshots/install/5.png)
+
 ![6](./screenshots/install/6.png)
+
 ![7](./screenshots/install/7.png)
+
 
 </details>
 
